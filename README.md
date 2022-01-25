@@ -26,4 +26,4 @@ ssh-agent
 
 ## Ladda upp nyckel till server
 
-`type $env:USERPROFILE\.ssh\id_rsa.pub | ssh robin@core.huset.nu "cat >> .ssh/authorized_keys"`
+`type $env:USERPROFILE\.ssh\id_rsa.pub | ssh user@host "cat >> .ssh/authorized_keys"`
