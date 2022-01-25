@@ -1,6 +1,6 @@
 # Hexagon's tips & tricks
 
-This is mostly for my own use, but feel free to get inspired.
+This is mostly for my own use. But feel free to get inspired, or even better - send an pull request with additions and improvements!
 
 *   [Windows 10 SSH key management](#windows-10-ssh-key-management)
 
